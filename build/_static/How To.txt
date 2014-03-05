@@ -1,0 +1,4 @@
+================
+ How To
+================
+This section provides detailed how-to instructions for common tasks in implementing the platform. Choose a topic from the menu on the left to get started.
